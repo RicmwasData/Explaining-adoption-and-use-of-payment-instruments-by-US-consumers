@@ -1,0 +1,225 @@
+Variable,Label
+ID,ID
+ROUND,ROUND
+MONTH,MONTH. Month of interview
+WEEKDAY,WEEKDAY. Day of the week
+COUNTRY,COUNTRY. Country of residence
+LANG,LANG. Language of interview
+D1,D1. Gender
+AGE,AGE. Age band
+EDUCATION,EDUCATION. Highest level of education
+D6_1,D6_1. Activity status
+D6_2a,D6_2A. Employment status
+D6_2b,D6_2B. Inactivity status
+HHSIZE,HHSIZE. Household size
+DEPCHILDREN,DEPCHILDREN. Number of children or economically dependent
+D8,D8. Use of internet in the last 3 months
+INCOME,INCOME. Household monthly net income
+D10_1,D10_1. Has mortgage
+D10_2,D10_2. Has consumer loan
+D10_3,D10_3. Has savings account
+D10_4,D10_4. Has online banking
+D10_5,D10_5. Hass pension fund or life insurance
+D10_6,D10_6. Has financial investments
+D10_7,D10_7. Has none of the financial products
+D10_8,D10_8. has financial products: refusal/NA
+Q1_1,Q1_1. Mapping - Cash withdrawal
+Q1_2,Q1_2. Mapping - Received cash
+Q1_3,Q1_3. Mapping - Payment at POS
+Q1_4,Q1_4. Mapping - Payment to pick up order made online
+Q1_5,Q1_5. Mapping - Payment to courier
+Q1_6,Q1_6. Mapping - P2P payment
+Q1_7,Q1_7. Mapping - Online payment
+QA1,QA1. Cash at the beginning of day
+QA2A,QA2A. Amount of first withdrawal
+QA3A,QA3A. Source of first withdrawal
+QA2B,QA2B. Amount of second withdrawal
+QA3B,QA3B. Source of second withdrawal
+QA2C,QA2C. Made third withdrawal
+QA22,QA22. Amount of cash received from someone
+QA4,QA4. Amount of money put aside
+QA_5a_1,QA_5a. Amount of POS payment 1
+QA_5a_2,QA_5a. Amount of POS payment 2
+QA_5a_3,QA_5a. Amount of POS payment 3
+QA_5a_4,QA_5a. Amount of POS payment 4
+QA_5a_5,QA_5a. Amount of POS payment 5
+QA_5a_6,QA_5a. Amount of POS payment 6
+QA_5a_7,QA_5a. Amount of POS payment 7
+QA_5a_8,QA_5a. Amount of POS payment 8
+QA_6a_1,QA_6a. Location POS payment 1
+QA_6a_2,QA_6a. Location POS payment 2
+QA_6a_3,QA_6a. Location POS payment 3
+QA_6a_4,QA_6a. Location POS payment 4
+QA_6a_5,QA_6a. Location POS payment 5
+QA_6a_6,QA_6a. Location POS payment 6
+QA_6a_7,QA_6a. Location POS payment 7
+QA_6a_8,QA_6a. Location POS payment 8
+QA_7a_1,QA_7a. Instrument POS payment 1
+QA_7a_2,QA_7a. Instrument POS payment 2
+QA_7a_3,QA_7a. Instrument POS payment 3
+QA_7a_4,QA_7a. Instrument POS payment 4
+QA_7a_5,QA_7a. Instrument POS payment 5
+QA_7a_6,QA_7a. Instrument POS payment 6
+QA_7a_7,QA_7a. Instrument POS payment 7
+QA_7a_8,QA_7a. Instrument POS payment 8
+QA_7ai_1,QA7Ai_n. Card payment 1
+QA_7ai_2,QA7Ai_n. Card payment 2
+QA_7ai_3,QA7Ai_n. Card payment 3
+QA_7ai_4,QA7Ai_n. Card payment 4
+QA_7ai_5,QA7Ai_n. Card payment 5
+QA_7ai_6,QA7Ai_n. Card payment 6
+QA_7ai_7,QA7Ai_n. Card payment 7
+QA_7ai_8,QA7Ai_n. Card payment 8
+QA_7aii_1,QA7Aii_n. Mobile payment 1
+QA_7aii_2,QA7Aii_n. Mobile payment 2
+QA_7aii_3,QA7Aii_n. Mobile payment 3
+QA_7aii_4,QA7Aii_n. Mobile payment 4
+QA_7aii_5,QA7Aii_n. Mobile payment 5
+QA_7aii_6,QA7Aii_n. Mobile payment 6
+QA_7aii_7,QA7Aii_n. Mobile payment 7
+QA_7aii_8,QA7Aii_n. Mobile payment 8
+QA_8a_1,QA8A_n. Non-cash acceptance POS payment 1
+QA_8a_2,QA8A_n. Non-cash acceptance POS payment 2
+QA_8a_3,QA8A_n. Non-cash acceptance POS payment 3
+QA_8a_4,QA8A_n. Non-cash acceptance POS payment 4
+QA_8a_5,QA8A_n. Non-cash acceptance POS payment 5
+QA_8a_6,QA8A_n. Non-cash acceptance POS payment 6
+QA_8a_7,QA8A_n. Non-cash acceptance POS payment 7
+QA_8a_8,QA8A_n. Non-cash acceptance POS payment 8
+QA_8ai_1,QA8Ai_n. Cash acceptance POS payment 1
+QA_8ai_2,QA8Ai_n. Cash acceptance POS payment 2
+QA_8ai_3,QA8Ai_n. Cash acceptance POS payment 3
+QA_8ai_4,QA8Ai_n. Cash acceptance POS payment 4
+QA_8ai_5,QA8Ai_n. Cash acceptance POS payment 5
+QA_8ai_6,QA8Ai_n. Cash acceptance POS payment 6
+QA_8ai_7,QA8Ai_n. Cash acceptance POS payment 7
+QA_8ai_8,QA8Ai_n. Cash acceptance POS payment 8
+QB1_1,QB1_n.  Purpose of online payment 1.
+QB1_2,QB1_n.  Purpose of online payment 2.
+QB1_3,QB1_n.  Purpose of online payment 3.
+QB1_4,QB1_n.  Purpose of online payment 4.
+QB1_5,QB1_n.  Purpose of online payment 5.
+QB1_6,QB1_n.  Purpose of online payment 6.
+QB1_7,QB1_n.  Purpose of online payment 7.
+QB1_8,QB1_n.  Purpose of online payment 8.
+QB3_1,QB3_n. Value of online payment 1
+QB3_2,QB3_n. Value of online payment 2
+QB3_3,QB3_n. Value of online payment 3
+QB3_4,QB3_n. Value of online payment 4
+QB3_5,QB3_n. Value of online payment 5
+QB3_6,QB3_n. Value of online payment 6
+QB3_7,QB3_n. Value of online payment 7
+QB3_8,QB3_n. Value of online payment 8
+QB4_1,QB4_n. Instrument for online payment 1
+QB4_2,QB4_n. Instrument for online payment 2
+QB4_3,QB4_n. Instrument for online payment 3
+QB4_4,QB4_n. Instrument for online payment 4
+QB4_5,QB4_n. Instrument for online payment 5
+QB4_6,QB4_n. Instrument for online payment 6
+QB4_7,QB4_n. Instrument for online payment 7
+QB4_8,QB4_n. Instrument for online payment 8
+QC1_1,QC1_1. Paid rent or mortgage
+QC1_2,QC1_2. Paid utilities
+QC1_3,QC1_3. Paid insurance
+QC1_4,QC1_4. Paid telephone and internet bills
+QC1_5,QC1_5. Paid taxes and public charges
+QC1_6,QC1_6. Paid subscriptions
+QC1_8,QC1_8. Paid tickets for transport
+QC1_10,QC1_10. Paid back loans
+QC2_1,QC2_1. Amount of rent or mortgage
+QC3_1,QC3_1. Instrument rent or mortgage?
+QC5_1,QC5_1. Rent or mortgage frequency
+QC2_2,QC2_2. Amount of utilities payment
+QC3_2,QC3_2. Instrument utilities payment
+QC5_2,QC5_2. Utilities payment frequency
+QC2_3,QC2_3. Amount of insurance
+QC3_3,QC3_3. Instrument insurance
+QC5_3,QC5_3. Insurance frequency
+QC6_3,QC6_3. Insurance on behalf of who
+QC2_4,QC2_4. Amount of telephone and internet payment
+QC3_4,QC3_4. Instrument telephone and internet bills
+QC5_4,QC5_4. Telephone and internet bills frequency
+QC6_4,QC6_4. Telephone and internet bills on behalf of who
+QC2_5,QC2_5. Amount of taxes and public charges
+QC3_5,QC3_5. Instrument taxes and public charges
+QC5_5,QC5_5. Taxes and public charges frequency
+QC2_6,QC2_6. Amount of subscriptions payment
+QC3_6,QC3_6. Instrument subscriptions payment
+QC5_6,QC5_6. Subscriptions frequency
+QC2_8,QC2_8. Amount of transport tickets payment
+QC3_8,QC3_8. Instrument transport tickets payment
+QC5_8,QC5_8. Transport tickets  payment frequency
+QC6_8,QC6_8. Transport tickets payment on behalf of who
+QC2_10,QC2_10. Amount of loan repayment
+QC3_10,QC3_10. Instrument loan repayment
+QC5_10,QC5_10. Loan repayment frequency
+QC6_10,QC6_10. Loan repayment on behalf of who
+QQ1A_1,QQ1A_1. Has a payment account
+QQ1A_2,QQ1A_2. Has a credit/debit card
+QQ1A_3,QQ1A_3. Has crypto assets
+QQ1A_4,"QQ1A_4. Has not payment accout, cards, or crypto assets"
+QQ1A_5,"QQ1A_5. Don't know if has payment accout, cards, or crypt"
+QQ1B,QQ1B. Crypto assets use
+QQ1D,QQ1D. Access to instant payments
+QQ11D,QQ11D. Instant payments fees
+QQ2,QQ2. Easiness to withdraw money
+QQ11A,QQ11A. ATM fees
+QQ3,QQ3. Payment preference
+QQ3A,QQ3A. Cashless payment preference
+QQ13A_1,QQ13A_1. Cash advantages; acceptance
+QQ13A_2,QQ13A_2. Cash advantages: faster
+QQ13A_3,QQ13A_3. Cash advantages: privacy
+QQ13A_4,QQ13A_4. Cash advantages: easier
+QQ13A_5,QQ13A_5. Cash advantages: safer
+QQ13A_6,QQ13A_6. Cash advantages: immediatly settled
+QQ13A_7,QQ13A_7. Cash advantages: aware of spending
+QQ13A_8,QQ13A_8. Cash advantages: other
+QQ13A_9,QQ13A_9. Cash advantages: do not use cash
+QQ13A_10,QQ13A_10. Cash advantages: none
+QQ13A_11,QQ13A_11. Cash advantages: don't know
+QQ13B_1,QQ13B_1. Card advantages: acceptance
+QQ13B_2,QQ13B_2. Card advantages: faster
+QQ13B_3,QQ13B_3. Card advantages: easier
+QQ13B_4,QQ13B_4. Card advantages: safer
+QQ13B_5,QQ13B_5. Card advantages: not worry about carrying cash
+QQ13B_6,QQ13B_6. Card advantages: aware of spending
+QQ13B_7,QQ13B_7. Card advantages: other
+QQ13B_8,QQ13B_8. Card advantages: none
+QQ13B_9,QQ13B_9. Card advantages: do not use card
+QQ13B_10,QQ13B_10. Card advantages: don't know
+QQ19A,QQ19A. COVID-19: Use of cash
+Q19C_1,Q19C_1. COVID-19 less cash: difficult to withdraw
+Q19C_2,Q19C_2. COVID-19 less cash: fear of virus
+Q19C_3,Q19C_3. COVID-19 less cash: cash not accepted
+Q19C_4,Q19C_4. COVID-19 less cash: advice not to use cash
+Q19C_5,Q19C_5. COVID-19 less cash: government recommendations
+Q19C_6,Q19C_6. COVID-19 less cash: electronic payment made more convenient
+Q19C_7,Q19C_7. COVID-19 less cash: discovered new means
+Q19C_8,Q19C_8. COVID-19 less cash: other reason
+Q19C_9,Q19C_9. COVID-19 less cash: don't know
+QQ19B,QQ19B. COVID-19: use of online payments
+QQ4C,QQ4C. Importance of cash
+QQ8,QQ8. Share of income in cash
+QQ9,QQ9. Keeps cash reserves
+QQ10,QQ10. Value of cash reserves
+URBAN,URBAN. Urban or rural area
+D13a,D13a. Has landline phone
+D13B,D13b. Has a mobile phone
+Gross_weigh,Final combined pan european grossing weight
+D3_AT,Region Austria
+D3_BE,Region Belgium
+D3_EE,Region Estonia
+D3_ES,Region Spain
+D3_FI,Region Finland
+D3_FR,Region France
+D3_IE,Region Ireland
+D3_IT,Region Italy
+D3_LT,Region Lithuania
+D3_LU,Region Luxembourg
+D3_LV,Region Latvia
+D3_PT,Region Portugal
+D3_SI,Region Slovenia
+D3_SK,Region Slovakia
+D3_CY,Region Cyprus
+D3_MT,Region Malta
+D3_GR,Region Greece
